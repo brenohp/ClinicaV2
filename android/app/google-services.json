@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217132505413",
+    "project_id": "clinical-soft",
+    "storage_bucket": "clinical-soft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217132505413:android:cdd6c708d6059e7cc7062c",
+        "android_client_info": {
+          "package_name": "com.mycompany.clinicalsoftwarev2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZtVPtfGqlkAxtcrlo0CJLKt4Qzj979U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
