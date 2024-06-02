@@ -1,7 +1,7 @@
 # Clinical-Software V2
 
-Clinical Software é um protótipo de ferramenta para gestão de clinicas e consultórios.
+A new Flutter project.
 
-## Last Update
+## Getting Started
 
-02/06/2024
+FlutterFlow projects are built to run on the Flutter _stable_ release.
